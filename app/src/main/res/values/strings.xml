@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoTopApps</string>
+    <string name="judul">ไปที่แอปพลิเคชัน</string>
+    <string name="subjudul">Go Top Apps</string>
+    <string name="hospital">Hospital</string>
+    <string name="bank">Bank</string>
+    <string name="university">University</string>
+    <string name="mall">Mall</string>
+</resources>

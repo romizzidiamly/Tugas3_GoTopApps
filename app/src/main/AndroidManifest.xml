@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.latihan.gotopapps">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GoTopApps">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RS"></activity>
+        <activity android:name=".RSAwalBros"></activity>
+        <activity android:name=".EkaHospital"></activity>
+        <activity android:name=".RSUD"></activity>
+        <activity android:name=".RSIbnuSina"></activity>
+
+        <activity android:name=".University"></activity>
+        <activity android:name=".Unri"></activity>
+        <activity android:name=".Uir"></activity>
+        <activity android:name=".UinSuska"></activity>
+        <activity android:name=".Umri"></activity>
+
+        <activity android:name=".Mall"></activity>
+        <activity android:name=".MallSKA"></activity>
+        <activity android:name=".MallCiputra"></activity>
+        <activity android:name=".TransmartPku"></activity>
+        <activity android:name=".LivingWorldPku"></activity>
+
+        <activity android:name=".Bank"></activity>
+        <activity android:name=".BCA"></activity>
+        <activity android:name=".BRI"></activity>
+        <activity android:name=".BNI"></activity>
+        <activity android:name=".Mandiri"></activity>
+    </application>
+
+</manifest>
